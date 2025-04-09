@@ -1,2 +1,2 @@
 # MaccasAUS
-Number of McDonalds stores across Australian geographical areas
+This project seeks to examine a general proposition about fastfood chain outlets that they correspond to low SES demographics or geographies. By looking at several datasets pertaining to Mcdonalds Family Restaurants across Australia and where they are located by postcode, by Local Government Authority, and by metrics of socioeconomic disadvantage/advantage, we sought to measure a correlation to 'test' the proposition.
